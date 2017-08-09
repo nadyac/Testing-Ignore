@@ -1,0 +1,57 @@
+[Mon Jan 11 22:00:50.504572 2016] [ssl:warn] [pid 11460:tid 652] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Jan 11 22:00:53.573915 2016] [mpm_winnt:notice] [pid 11460:tid 652] AH00455: Apache/2.4.10 (Win32) OpenSSL/1.0.1h PHP/5.4.31 configured -- resuming normal operations
+[Mon Jan 11 22:00:53.573915 2016] [mpm_winnt:notice] [pid 11460:tid 652] AH00456: Apache Haus VC9 Server built: Jul 15 2014 20:34:18
+[Mon Jan 11 22:00:53.573915 2016] [core:notice] [pid 11460:tid 652] AH00094: Command line: 'C:\\Users\\Nadya\\Downloads\\tech\\zips\\UwAmp\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/Nadya/Downloads/tech/zips/UwAmp/UwAmp/bin/apache -f C:\\Users\\Nadya\\Downloads\\tech\\zips\\UwAmp\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Mon Jan 11 22:00:53.592942 2016] [mpm_winnt:notice] [pid 11460:tid 652] AH00418: Parent: Created child process 12352
+[Mon Jan 11 22:00:56.929401 2016] [ssl:warn] [pid 12352:tid 540] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Jan 11 22:00:57.001958 2016] [mpm_winnt:notice] [pid 12352:tid 540] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 11 22:03:24.371626 2016] [mpm_winnt:crit] [pid 12352:tid 540] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Jan 12 20:50:26.147572 2016] [core:warn] [pid 3852:tid 620] AH00098: pid file C:/Users/Nadya/Downloads/tech/zips/UwAmp/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 12 20:50:26.995035 2016] [ssl:warn] [pid 3852:tid 620] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Jan 12 20:50:29.663847 2016] [mpm_winnt:notice] [pid 3852:tid 620] AH00455: Apache/2.4.10 (Win32) OpenSSL/1.0.1h PHP/5.4.31 configured -- resuming normal operations
+[Tue Jan 12 20:50:29.663847 2016] [mpm_winnt:notice] [pid 3852:tid 620] AH00456: Apache Haus VC9 Server built: Jul 15 2014 20:34:18
+[Tue Jan 12 20:50:29.664352 2016] [core:notice] [pid 3852:tid 620] AH00094: Command line: 'C:\\Users\\Nadya\\Downloads\\tech\\zips\\UwAmp\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/Nadya/Downloads/tech/zips/UwAmp/UwAmp/bin/apache -f C:\\Users\\Nadya\\Downloads\\tech\\zips\\UwAmp\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Tue Jan 12 20:50:29.704904 2016] [mpm_winnt:notice] [pid 3852:tid 620] AH00418: Parent: Created child process 15904
+[Tue Jan 12 20:50:33.251526 2016] [ssl:warn] [pid 15904:tid 636] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Jan 12 20:50:33.326569 2016] [mpm_winnt:notice] [pid 15904:tid 636] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 13 12:14:40.978579 2016] [core:warn] [pid 8264:tid 668] AH00098: pid file C:/Users/Nadya/Downloads/tech/zips/UwAmp/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 13 12:14:41.742120 2016] [ssl:warn] [pid 8264:tid 668] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jan 13 12:14:43.636969 2016] [mpm_winnt:notice] [pid 8264:tid 668] AH00455: Apache/2.4.10 (Win32) OpenSSL/1.0.1h PHP/5.4.31 configured -- resuming normal operations
+[Wed Jan 13 12:14:43.636969 2016] [mpm_winnt:notice] [pid 8264:tid 668] AH00456: Apache Haus VC9 Server built: Jul 15 2014 20:34:18
+[Wed Jan 13 12:14:43.636969 2016] [core:notice] [pid 8264:tid 668] AH00094: Command line: 'C:\\Users\\Nadya\\Downloads\\tech\\zips\\UwAmp\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/Nadya/Downloads/tech/zips/UwAmp/UwAmp/bin/apache -f C:\\Users\\Nadya\\Downloads\\tech\\zips\\UwAmp\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Wed Jan 13 12:14:43.689018 2016] [mpm_winnt:notice] [pid 8264:tid 668] AH00418: Parent: Created child process 4320
+[Wed Jan 13 12:14:46.505113 2016] [ssl:warn] [pid 4320:tid 580] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jan 13 12:14:46.557651 2016] [mpm_winnt:notice] [pid 4320:tid 580] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 15 08:28:48.313955 2016] [core:warn] [pid 1384:tid 624] AH00098: pid file C:/Users/Nadya/Downloads/tech/zips/UwAmp/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 15 08:28:49.081517 2016] [ssl:warn] [pid 1384:tid 624] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 15 08:28:50.952232 2016] [mpm_winnt:notice] [pid 1384:tid 624] AH00455: Apache/2.4.10 (Win32) OpenSSL/1.0.1h PHP/5.4.31 configured -- resuming normal operations
+[Fri Jan 15 08:28:50.952732 2016] [mpm_winnt:notice] [pid 1384:tid 624] AH00456: Apache Haus VC9 Server built: Jul 15 2014 20:34:18
+[Fri Jan 15 08:28:50.952732 2016] [core:notice] [pid 1384:tid 624] AH00094: Command line: 'C:\\Users\\Nadya\\Downloads\\tech\\zips\\UwAmp\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/Nadya/Downloads/tech/zips/UwAmp/UwAmp/bin/apache -f C:\\Users\\Nadya\\Downloads\\tech\\zips\\UwAmp\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Fri Jan 15 08:28:51.000774 2016] [mpm_winnt:notice] [pid 1384:tid 624] AH00418: Parent: Created child process 5860
+[Fri Jan 15 08:28:53.969171 2016] [ssl:warn] [pid 5860:tid 624] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 15 08:28:54.052926 2016] [mpm_winnt:notice] [pid 5860:tid 624] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 27 00:46:00.360717 2016] [core:warn] [pid 1936:tid 536] AH00098: pid file C:/Users/Nadya/Downloads/tech/zips/UwAmp/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 27 00:46:01.229430 2016] [ssl:warn] [pid 1936:tid 536] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jan 27 00:46:03.199878 2016] [mpm_winnt:notice] [pid 1936:tid 536] AH00455: Apache/2.4.10 (Win32) OpenSSL/1.0.1h PHP/5.4.31 configured -- resuming normal operations
+[Wed Jan 27 00:46:03.200378 2016] [mpm_winnt:notice] [pid 1936:tid 536] AH00456: Apache Haus VC9 Server built: Jul 15 2014 20:34:18
+[Wed Jan 27 00:46:03.200378 2016] [core:notice] [pid 1936:tid 536] AH00094: Command line: 'C:\\Users\\Nadya\\Downloads\\tech\\zips\\UwAmp\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/Nadya/Downloads/tech/zips/UwAmp/UwAmp/bin/apache -f C:\\Users\\Nadya\\Downloads\\tech\\zips\\UwAmp\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Wed Jan 27 00:46:03.250415 2016] [mpm_winnt:notice] [pid 1936:tid 536] AH00418: Parent: Created child process 7224
+[Wed Jan 27 00:46:06.613397 2016] [ssl:warn] [pid 7224:tid 624] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jan 27 00:46:06.664976 2016] [mpm_winnt:notice] [pid 7224:tid 624] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 12 16:19:52.325061 2016] [core:warn] [pid 12016:tid 684] AH00098: pid file C:/Users/Nadya/Downloads/tech/zips/UwAmp/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 12 16:19:53.289889 2016] [ssl:warn] [pid 12016:tid 684] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 12 16:19:58.219883 2016] [mpm_winnt:notice] [pid 12016:tid 684] AH00455: Apache/2.4.10 (Win32) OpenSSL/1.0.1h PHP/5.4.31 configured -- resuming normal operations
+[Wed Oct 12 16:19:58.219883 2016] [mpm_winnt:notice] [pid 12016:tid 684] AH00456: Apache Haus VC9 Server built: Jul 15 2014 20:34:18
+[Wed Oct 12 16:19:58.219883 2016] [core:notice] [pid 12016:tid 684] AH00094: Command line: 'C:\\Users\\Nadya\\Downloads\\tech\\zips\\UwAmp\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/Nadya/Downloads/tech/zips/UwAmp/UwAmp/bin/apache -f C:\\Users\\Nadya\\Downloads\\tech\\zips\\UwAmp\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Wed Oct 12 16:19:58.567665 2016] [mpm_winnt:notice] [pid 12016:tid 684] AH00418: Parent: Created child process 16928
+[Wed Oct 12 16:20:03.857703 2016] [ssl:warn] [pid 16928:tid 684] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 12 16:20:03.940268 2016] [mpm_winnt:notice] [pid 16928:tid 684] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 12 19:12:26.838613 2016] [mpm_winnt:crit] [pid 16928:tid 684] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Oct 13 20:15:09.411561 2016] [core:warn] [pid 16128:tid 660] AH00098: pid file C:/Users/Nadya/Downloads/tech/zips/UwAmp/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 13 20:15:09.732288 2016] [ssl:warn] [pid 16128:tid 660] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 13 20:15:13.287118 2016] [mpm_winnt:notice] [pid 16128:tid 660] AH00455: Apache/2.4.10 (Win32) OpenSSL/1.0.1h PHP/5.4.31 configured -- resuming normal operations
+[Thu Oct 13 20:15:13.287118 2016] [mpm_winnt:notice] [pid 16128:tid 660] AH00456: Apache Haus VC9 Server built: Jul 15 2014 20:34:18
+[Thu Oct 13 20:15:13.287118 2016] [core:notice] [pid 16128:tid 660] AH00094: Command line: 'C:\\Users\\Nadya\\Downloads\\tech\\zips\\UwAmp\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/Nadya/Downloads/tech/zips/UwAmp/UwAmp/bin/apache -f C:\\Users\\Nadya\\Downloads\\tech\\zips\\UwAmp\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Thu Oct 13 20:15:13.313138 2016] [mpm_winnt:notice] [pid 16128:tid 660] AH00418: Parent: Created child process 2140
+[Thu Oct 13 20:15:14.666612 2016] [ssl:warn] [pid 2140:tid 656] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 13 20:15:14.742165 2016] [mpm_winnt:notice] [pid 2140:tid 656] AH00354: Child: Starting 64 worker threads.
